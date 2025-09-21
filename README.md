@@ -2,7 +2,16 @@
 
 **HireSense AI** is a state-of-the-art, AI-powered candidate screening and evaluation system designed to revolutionize the recruitment process. This web application provides recruiters with intelligent tools to manage job descriptions, parse resumes, score candidates, and gain deep insights into their hiring pipeline, all powered by the Google Gemini API.
 
-![HireSense AI Dashboard](https://storage.googleapis.com/aistudio-project-assets/misc/hiresense_demo.gif)
+## 📷 Screenshots
+![alt text](https://github.com/VarsshanCoder/HireSense-AI/blob/main/Demo/Screenshot%202025-09-21%20130944.png)
+![alt text](https://github.com/VarsshanCoder/HireSense-AI/blob/main/Demo/Screenshot%202025-09-21%20131602.png)
+## AI Assist 🤖✨
+![alt text](https://github.com/VarsshanCoder/HireSense-AI/blob/main/Demo/Screenshot%202025-09-21%20131628.png)
+# 🚀 Demo
+![alt text](https://github.com/VarsshanCoder/HireSense-AI/blob/main/Demo/Screenshot%202025-09-21%20131638.png)
+![alt text](https://github.com/VarsshanCoder/HireSense-AI/blob/main/Demo/Screenshot%202025-09-21%20131657.png)
+![alt text](https://github.com/VarsshanCoder/HireSense-AI/blob/main/Demo/Screenshot%202025-09-21%20131703.png)
+
 
 ## 🔑 Core Features
 
