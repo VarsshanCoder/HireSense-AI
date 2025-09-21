@@ -12,10 +12,6 @@
 ![alt text](https://github.com/VarsshanCoder/HireSense-AI/blob/main/Demo/Screenshot%202025-09-21%20131657.png)
 ![alt text](https://github.com/VarsshanCoder/HireSense-AI/blob/main/Demo/Screenshot%202025-09-21%20131703.png)
 
-## 🌓 Dark/Light Mode
-[![Watch the video](https://github.com/VarsshanCoder/HireSense-AI/blob/main/Demo/Screenshot%202025-09-21%20130944.png)](https://github.com/VarsshanCoder/HireSense-AI/blob/main/Demo/Recording%202025-09-21%20131737.mp4)
-
-
 
 ## 🔑 Core Features
 
